@@ -5,45 +5,62 @@ PythonShare
 ------------------------
 本文 **主要** 针对 **零基础** 想学习Python者。本文本文由@史江歌（shijiangge@gmail.com  QQ:499065469）根据互联网资料收集整理而成，感谢互联网，感谢各位的分享。鸣谢！本文会不断更新。
 
-一、学会使用搜索引擎，尤其是Google。推荐阅读文章：
+一、学会使用搜索引擎，尤其是Google。推荐阅读文章
 --------------------------
-  [《如何用好Google搜索引擎？》](http://www.zhihu.com/question/20161362) --知乎问答@崔凯  
+  [《如何用好Google搜索引擎？》](http://www.zhihu.com/question/20161362) 知乎问答@崔凯  
   
   [《十大高明的Google搜索技巧》](http://www.williamlong.info/archives/728.html)by-雪影蓝风  
   
-  《如何用好Google》by-李笑来    
+  [《如何用好Google》](http://wordpress.lixiaolai.com/archives/992.html) by-李笑来    
   
 
 二、学会提问
 ----------------------------
-推荐阅读《提问的智慧》--by [啄木鸟社区](http://wiki.woodpecker.org.cn/moin/AskForHelp)
+推荐阅读 [《提问的智慧》](http://wiki.woodpecker.org.cn/moin/AskForHelp) by-啄木鸟社区
 
+[《提问的智慧》](https://gist.github.com/zer4tul/95ffaa741c836dc6ab3b) 务必请读完！
 
-三、书籍推荐：
+三、书籍推荐
 --------------------------
+
+### 零基础
 0. Python官方文档 [点击打开链接](http://docs.python.org/2/tutorial/index.html) 英语不好的，暂时就先别看了，以后一定肯定要加强英语学习哦;)。
 
-1. 对于零基础者，推荐《How to think like a computer scientist》[点击打开链接](http://www.greenteapress.com/thinkpython/thinkCSpy.pdf)，对应中文版本《Python学习笔记--皮大庆》，非常适合零基础入门。
+1. 推荐[《How to think like a computer scientist》](http://www.greenteapress.com/thinkpython/thinkCSpy.pdf)，对应中文版本《Python学习笔记--皮大庆》，非常适合零基础入门。
 
-2. 对于零基础者，推荐《Python编程实践》 [点击打开链接] (http://book.douban.com/subject/7059900/)
+2. 推荐 [《Python编程实践》] (http://book.douban.com/subject/7059900/)
 
-3. 对于零基础者，推荐《简明Python教程》 [点击打开链接](http://woodpecker.org.cn/abyteofpython_cn/chinese/)
+3. 推荐 [《简明Python教程》](http://woodpecker.org.cn/abyteofpython_cn/chinese/)
 
-4. 对于零基础者，推荐《笨办法学 Python （Learn Python The Hard Way）》[点击打开链接](http://learn-python-the-hard-way-zh_cn-translation.readthedocs.org/en/1.0/)
+4. 推荐[《笨办法学 Python （Learn Python The Hard Way）》](http://learn-python-the-hard-way-zh_cn-translation.readthedocs.org/en/1.0/)
 
-5. 对于有其他编程语言基础者，推荐《Python基础教程》[点击打开链接](http://book.douban.com/subject/4866934/)
+### 有其他编程语言基础
 
-6. 更多书籍推荐， **知乎问答**：关于 Python 的经典入门书籍有哪些？[点击打开链接](http://www.zhihu.com/question/19593179)
+0. 推荐[《Python基础教程》](http://book.douban.com/subject/4866934/)
 
-7. 更多书籍推荐， **V2EX问答**：文科生想学Python [点击打开链接](http://www.v2ex.com/t/40397)
+1. 推荐[Python入门教程-By廖雪峰](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
 
-8. [Python快速教程](http://www.cnblogs.com/vamei/archive/2012/09/13/2682778.html) 
+2. [Tutorial - Learn Python in 10 minutes](https://www.stavros.io/tutorials/python/)
+
+### 进阶
+
+0. 推荐[Requests 源码阅读](https://github.com/wangshunping/read_requests)
+
+1. [《Python进阶》（Intermediate Python 中文版）](https://github.com/eastlakeside/interpy-zh)
+
+### 更多书籍推荐 
+
+0.  **知乎问答**：[关于 Python 的经典入门书籍有哪些？](http://www.zhihu.com/question/19593179)
+
+1.  **V2EX问答**： [文科生想学Python](http://www.v2ex.com/t/40397)
+
+2. [Python快速教程](http://www.cnblogs.com/vamei/archive/2012/09/13/2682778.html) 
 
 
 
-四、视频推荐：
+四、视频推荐
 ------------------------------------------
-麻省理工公开课《计算机科学及编程导论》，该课程针对零基础者 [点击打开链接](http://v.163.com/special/opencourse/bianchengdaolun.html)  网易公开课。  
+麻省理工公开课《计算机科学及编程导论》，该课程针对零基础者 [网易公开课](http://v.163.com/special/opencourse/bianchengdaolun.html) 。  
 
 课程介绍
 这门课程适用于那些拥有 **很少或没有编程经验**  的学生,它致力于使学生理解计算机在解决问题中的作用,并且帮助学生，  **不论其专业**，使他们对于能够完成有用的小程序的目标充满信心。
@@ -51,7 +68,7 @@ PythonShare
 
 五、学习方法
 ---------------------------------------
-### *知乎问答*：零基础，应当如何开始学习 Python ？[点击打开链接](http://www.zhihu.com/question/20039623?nr=1)--by@黎敏
+### *知乎问答*：[零基础，应当如何开始学习 Python ？](http://www.zhihu.com/question/20039623?nr=1)--by@黎敏
 
 虽然我不是Python高手，但我是零基础，之前会的都是软件PS，PPT之类。
 
@@ -204,13 +221,13 @@ Just do it 。动手敲代码吧。
 
 七、更新
 --------------------------------------
-Python技术博客、招聘、开源软件、Python中文网站导航 [点击打开链接](http://simple-is-better.com/sites/)
+ [Python技术博客、招聘、开源软件、Python中文网站导航](http://simple-is-better.com/sites/)
 
-遇到python问题怎么样解决？python help dir stackoverflow docs google [点击打开链接](http://blog.csdn.net/xiaowanggedege/article/details/8753013)
+ [遇到python问题怎么样解决？python help dir stackoverflow docs google](http://blog.csdn.net/xiaowanggedege/article/details/8753013)
 
-在线视频教学(英文) [点击打开codecademy](http://www.codecademy.com/zh/tracks/python)
+ [在线视频教学(英文)codecademy](http://www.codecademy.com/zh/tracks/python)
 
-英文PythonForBeginners[pythonforbeginners](http://www.pythonforbeginners.com/)
+ [英文Python for beginners](http://www.pythonforbeginners.com/)
 
 英文How do I learn Python from zero to web development?（各种电子书推荐）[点击打开链接](http://programmers.stackexchange.com/questions/12189/how-do-i-learn-python-from-zero-to-web-development)
 
@@ -220,21 +237,41 @@ Python技术博客、招聘、开源软件、Python中文网站导航 [点击打
 
 针对有其他语言经验的人，英文：[Learn X in Y minutes](http://learnxinyminutes.com/docs/python/) 中文翻译[Y分钟学会Python（译）](http://youngsterxyf.github.io/2013/06/29/learn-python-in-y-minutes/)
 
-【强烈推荐】[Python小白公益文档](http://2.myrestful.sinaapp.com/) 作者：@疯狂制造
-
 [PyCoder’s Weekly 中文翻译](http://pycoders-weekly-chinese.readthedocs.org/en/latest/index.html) 说明：文章质量很高
 
 [PEP 20 (Python之禅) 的实例](http://artifex.org/~hblanks/talks/2011/pep20_by_example.html)  说明：code_stype
 
-[Unicode之痛](http://pycoders-weekly-chinese.readthedocs.org/en/latest/issue5/unipain.html)
+[Unicode之痛](http://pycoders-weekly-chinese.readthedocs.org/en/latest/issue5/unipain.html) 必读
+
+[有关 Python 2 和 Sublime Text 中文 Unicode 编码问题的分析与理解](http://v2ex.com/t/163786#reply12) 必读
 
 [stackoverflow上Python相关回答整理翻译](https://github.com/wklken/stackoverflow-py-top-qa)
 
 [Python语言总结-初级中级高级教程](http://www.crifan.com/files/doc/docbook/python_summary/release/html/python_summary.html) 作者：@Crifan Li
-[Python Guide Python 最佳实践](http://docs.python-guide.org/en/latest/?utm_campaign=Manong_Weekly_Issue_10&utm_medium=EDM&utm_source=Manong_Weekly) 英文
+
+[Python Guide Python 最佳实践（英文）](http://docs.python-guide.org/en/latest/?utm_campaign=Manong_Weekly_Issue_10&utm_medium=EDM&utm_source=Manong_Weekly) 
+
+[Python 最佳实践指南（中文）](https://github.com/Prodesire/Python-Guide-CN) 关于Python安装、配置、和日常使用的最佳实践手册。
+
+[Python 最佳实践指南 2018](https://pythoncaff.com/docs/python-guide/2018) Python 日常使用的最佳实践，高级 Python 开发者必知必会的知识
+
+[《码农周刊》干货精选（Python 篇）](http://baoz.me/446252) 精选总结
+
+[Python 3 Module of the Week](https://pymotw.com/3/) Python 标准库的使用
+
+[Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days) 100天从新手到大师
+
+[Python 和 Diango 学习资料，书籍，文章，以及实战项目](https://github.com/zaxlct/python-django-learning)
+
+[What the f*ck Python!](https://github.com/satwikkansal/wtfpython)
+
+[https://github.com/leisurelicht/wtfpython-cn](wtfpython的中文翻译)
 
 八、爬虫以及模拟登陆新浪微博
 --------------------------------------
+[知乎：Python 爬虫如何入门学习](http://www.zhihu.com/question/20899988)
+
+[Python爬虫学习系列教程 @崔庆才](http://cuiqingcai.com/1052.html)系列教程，入门、实战、爬虫利器介绍、进阶
 
 [Python模拟登录新浪微薄（使用RSA加密方式和Cookies文件）](http://yoyzhou.github.io/blog/2013/03/18/sina-weibo-login-simulator-in-python/)
 
@@ -242,6 +279,14 @@ Python技术博客、招聘、开源软件、Python中文网站导航 [点击打
 
 [一个简单的分布式新浪微博爬虫](http://qinxuye.me/article/a-distributed-weibo-crawler/)
 
+[用python爬虫抓站的一些技巧总结](http://obmem.info/?p=476)
+
+[使用python爬虫抓站的一些技巧总结：进阶篇](http://obmem.info/?p=753)
+
+[网络爬虫系列](http://blog.csdn.net/pleasecallmewhy/article/details/8922826)
+
 九、工具
 -------------------------------------
 Windows系统下，Python相关包[Windows Binaries for Python Extension Packages](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
+
+
